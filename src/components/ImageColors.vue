@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div>
       <v-btn :color="currentTool === 'hand' ? 'red' : 'blue'" @click="selectTool('hand')">Рука</v-btn>
       <v-btn :color="currentTool === 'pipette' ? 'red' : 'blue'" @click="selectTool('pipette')">Пипетка</v-btn>
@@ -23,4 +23,4 @@
   <style>
 
   </style>
-  
+   -->
